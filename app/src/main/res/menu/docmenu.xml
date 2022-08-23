@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_doc_save"
+        android:orderInCategory="4"
+        android:title="Зберегти"/>
+
+    <item
+        android:id="@+id/menu_doc_active"
+        android:orderInCategory="4"
+        android:title="Провести"/>
+
+    <item
+        android:id="@+id/menu_doc_unactive"
+        android:orderInCategory="4"
+        android:title="Розпровести"/>
+
+    <item
+        android:id="@+id/menu_close"
+        android:orderInCategory="4"
+        android:title="Закрити"/>
+
+</menu>

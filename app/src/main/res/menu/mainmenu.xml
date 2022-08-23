@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_operation"
+        android:orderInCategory="4"
+        android:title="Операції">
+        <menu>
+            <item android:id="@+id/menu_reload"
+                android:title="Оновити" />
+            <item android:id="@+id/menu_pull"
+                android:title="Відправити" />
+            <item android:id="@+id/menu_get"
+                android:title="Прийняти" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/menu_documents"
+        android:orderInCategory="4"
+        android:title="Документи">
+
+        <menu>
+            <item android:id="@+id/menu_postuplenia"
+                android:title="Надходження" />
+            <item android:id="@+id/menu_move"
+                android:title="Переміщення" />
+            <item android:id="@+id/menu_inventarization"
+                android:title="Інвентаризації" />
+        </menu>
+
+    </item>
+
+
+    <item
+        android:id="@+id/menu_settings"
+        android:orderInCategory="4"
+        android:title="Налаштування"/>
+
+    <item
+        android:id="@+id/menu_exit"
+        android:orderInCategory="4"
+        android:title="Вихід"/>
+
+</menu>

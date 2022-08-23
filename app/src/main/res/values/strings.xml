@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Рабоче місце приймальника (v0.1.0)</string>
+
+    <string name="settings_address">АйПі</string>
+    <string name="settings_port">Порт</string>
+    <string name="settings_login">Логін</string>
+    <string name="settings_password">Пароль</string>
+    <string name="settings_path">Папка</string>
+    <string name="settings_to1C">В 1С:</string>
+    <string name="settings_from1C">З 1С:</string>
+    <string name="settings_request1C">Запит 1С:</string>
+
+    <string name="settings_file_to1C">To1C.xxx</string>
+    <string name="settings_file_from1C">From1C.xxx</string>
+    <string name="settings_file_request1C">Request1C.xxx</string>
+
+    <string name="doc_main">Основна</string>
+    <string name="doc_items">Товари</string>
+    <string name="doc_others">Додаткова</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="NUMBER">Номер</string>
+    <string name="DATE">Дата</string>
+    <string name="CLIENT_NAME">Постачальник</string>
+    <string name="CLOUD">Магазин</string>
+    <string name="COMMENT">Коментар</string>
+
+    <string name="NUMBER_DOC_CONTR">Вхідний номер</string>
+    <string name="DATE_DOC_CONTR">Вхідна дата</string>
+
+    <string name="NUM">№</string>
+    <string name="INVOICE">Номенклатура</string>
+    <string name="COUNT">Зам.</string>
+    <string name="FACT">Факт</string>
+
+    <string name="settings_test">Протестувати</string>
+    <string name="settings_save">Зберегти</string>
+    <string name="settings_back">Закрити</string>
+
+</resources>
